@@ -7,7 +7,7 @@ A simple Linux utility that converts trackball movement into scroll events.
 1. Clone the repo
 
 ```bash
-git@github.com:builtbylarry/kensington-trackball-scroll.git
+git clone git@github.com:builtbylarry/kensington-trackball-scroll.git
 ```
 
 2. Build the project
